@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tickeo.Core", "Tickeo.Core\Tickeo.Core.csproj", "{6E873C6A-1E39-451F-B6C9-9A30BFB8DB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tickeo.Repository", "Tickeo.Repository\Tickeo.Repository.csproj", "{917AD44C-DA07-4A89-B686-EA1F0E8A7EF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tickeo.Service", "Tickeo.Service\Tickeo.Service.csproj", "{B6943D68-2D4D-4DCF-98E5-E53DF57F2141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tickeo.API", "Tickeo.API\Tickeo.API.csproj", "{F4F29AAA-9CE9-4594-9BC6-ADB33AC39CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E873C6A-1E39-451F-B6C9-9A30BFB8DB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E873C6A-1E39-451F-B6C9-9A30BFB8DB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E873C6A-1E39-451F-B6C9-9A30BFB8DB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E873C6A-1E39-451F-B6C9-9A30BFB8DB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917AD44C-DA07-4A89-B686-EA1F0E8A7EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917AD44C-DA07-4A89-B686-EA1F0E8A7EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917AD44C-DA07-4A89-B686-EA1F0E8A7EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917AD44C-DA07-4A89-B686-EA1F0E8A7EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6943D68-2D4D-4DCF-98E5-E53DF57F2141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6943D68-2D4D-4DCF-98E5-E53DF57F2141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6943D68-2D4D-4DCF-98E5-E53DF57F2141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6943D68-2D4D-4DCF-98E5-E53DF57F2141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F29AAA-9CE9-4594-9BC6-ADB33AC39CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F29AAA-9CE9-4594-9BC6-ADB33AC39CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F29AAA-9CE9-4594-9BC6-ADB33AC39CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F29AAA-9CE9-4594-9BC6-ADB33AC39CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E16D33E-9EE9-4B3B-A011-BDE2B861AE8F}
+	EndGlobalSection
+EndGlobal
